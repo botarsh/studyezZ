@@ -1,4 +1,4 @@
-# 📚 StudyLingo
+# 📚 StudyEzZ
 
 AI-powered multilingual study assistant that helps students learn through multiple language perspectives.
 
