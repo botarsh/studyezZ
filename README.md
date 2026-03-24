@@ -114,11 +114,7 @@ Unlike basic translation tools, StudyLingo focuses on learning, provides visual 
 
 This project showcases Lingo.dev's powerful translation API through efficient batch translations, seamless support for 5+ languages, context-aware translations, and the interactive Study Helper search feature.
 
-## 🏆 Hackathon Details
 
-Event: WeMakeDevs x Lingo Multilingual Hackathon  
-Date: November 2024  
-Category: Educational Tools
 
 ## 👨‍💻 Author
 
